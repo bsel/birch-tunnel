@@ -8,9 +8,8 @@ restricted to just supporting encryption. Filters can be supplied via
 Java's Service Provider mechanism. A CLI and a GUI are available.
 
 It was written back in 2009 and hosted on a private server with trac in
-back. The server was consumed by by a space time continuum and took the
-sources with it. In 2016 the continuum collapsed and released the
-sources to GitHub.
+back. The server was consumed by a space time continuum which took away
+In 2016 the continuum collapsed and released the sources to GitHub.
 
 
 # How to Build and Run
